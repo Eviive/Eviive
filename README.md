@@ -10,10 +10,10 @@
 
 <p align="center">
 	<a href="https://github.com/eviive/BUT-Website">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eviive&repo=BUT-Website&show_owner=false&theme=github_dark&border_color=30363d"/>
+		<img alt="BUT-Website repositorie" src="https://github-readme-stats.vercel.app/api/pin/?username=eviive&repo=BUT-Website&show_owner=false&theme=github_dark&border_color=30363d"/>
 	</a>
 	<a href="https://github.com/eviive/TCL-API">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=eviive&repo=TCL-API&show_owner=false&theme=github_dark&border_color=30363d"/>
+		<img alt="TCL-API repositorie" src="https://github-readme-stats.vercel.app/api/pin/?username=eviive&repo=TCL-API&show_owner=false&theme=github_dark&border_color=30363d"/>
 	</a>
 </p>
 
@@ -22,31 +22,33 @@
 <br>
 
 <p>
-	<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-	<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-	<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-	<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-	<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+	<img height="40" width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+	<img height="40" width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+	<img height="40" width="40" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+	<img height="40" width="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+	<img height="40" width="40" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+	<img height="40" width="40" alt="Bash" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"/>
 </p>
 
 <br>
 
 <p>
-	<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-	<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+	<img height="40" width="40" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+	<img height="40" width="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+	<img height="40" width="40" alt="GitHub" src="https://img.icons8.com/ios-filled/50/ffffff/github.svg"/>
 </p>
 
 ## Contact me
 
 <p>
 	<a href="https://discordapp.com/users/312690752884834314/">
-		<img height="48" width="48" src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>
+		<img height="48" width="48" alt="Discord" src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>
 	</a>
 	<a href="https://www.linkedin.com/in/albert-vaillon-984227222/">
-		<img height="48" width="48" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+		<img height="48" width="48" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 	</a>
 	<a href="mailto:albert.vaillon21@gmail.com">
-		<img height="48" width="48" src="https://img.icons8.com/color/48/000000/apple-mail.png"/>
+		<img height="48" width="48" alt="Mail" src="https://img.icons8.com/color/48/000000/apple-mail.png"/>
 	</a>
 </p>
 
