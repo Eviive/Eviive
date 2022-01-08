@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=eviive&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats&hide=prs"/>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eviive&langs_count=6&hide_border=true&theme=github_dark&custom_title=My%20Most%20Used%20Languages&layout=compact"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eviive&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats&hide=prs)
+
+![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eviive&langs_count=6&hide_border=true&theme=github_dark&custom_title=My%20Most%20Used%20Languages&layout=compact)
 
 ### My favorite repositories
 
