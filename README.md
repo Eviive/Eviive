@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eviive&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats&hide=prs)
 
 ![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eviive&langs_count=6&hide_border=true&theme=github_dark&custom_title=My%20Most%20Used%20Languages&layout=compact)
 
-### My favorite repositories
+## My favorite repositories
 
 <br>
 
@@ -17,7 +17,7 @@
 	</a>
 </p>
 
-### Languages and tools I use
+## Languages and tools I use
 
 <br>
 
@@ -36,7 +36,7 @@
 	<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 </p>
 
-### Contact me
+## Contact me
 
 <p>
 	<a href="https://discordapp.com/users/312690752884834314/">
