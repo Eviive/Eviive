@@ -35,7 +35,7 @@
 <p>
 	<img height="40" width="40" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 	<img height="40" width="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-	<img height="40" width="40" alt="GitHub" src="https://img.icons8.com/ios-filled/50/ffffff/github.svg"/>
+	<img height="40" width="40" alt="GitHub" src="https://github.githubassets.com/favicons/favicon-dark.svg"/>
 </p>
 
 ## Contact me
