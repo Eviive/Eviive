@@ -1,4 +1,8 @@
-# Hi there 👋
+<h1>
+	Hi there, I'm 
+	<a href="https://github.com/Eviive">Albert</a>
+	👋
+</h1>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eviive&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats&hide=prs)
 
@@ -10,10 +14,10 @@
 
 <p align="center">
 	<a href="https://github.com/eviive/BUT-Website">
-		<img alt="BUT-Website repositorie" src="https://github-readme-stats.vercel.app/api/pin/?username=eviive&repo=BUT-Website&show_owner=false&theme=github_dark&border_color=30363d"/>
+		<img alt="BUT-Website repository" src="https://github-readme-stats.vercel.app/api/pin/?username=eviive&repo=BUT-Website&show_owner=false&theme=github_dark&border_color=30363d"/>
 	</a>
 	<a href="https://github.com/eviive/TCL-API">
-		<img alt="TCL-API repositorie" src="https://github-readme-stats.vercel.app/api/pin/?username=eviive&repo=TCL-API&show_owner=false&theme=github_dark&border_color=30363d"/>
+		<img alt="TCL-API repository" src="https://github-readme-stats.vercel.app/api/pin/?username=eviive&repo=TCL-API&show_owner=false&theme=github_dark&border_color=30363d"/>
 	</a>
 </p>
 
@@ -21,22 +25,27 @@
 
 <br>
 
-<p>
+<p align="center">
 	<a href="https://developer.mozilla.org/fr/docs/Web/HTML">
 		<img height="40" width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 	</a>
+	&emsp;
 	<a href="https://developer.mozilla.org/fr/docs/Web/CSS">
 		<img height="40" width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 	</a>
+	&emsp;
 	<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
 		<img height="40" width="40" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 	</a>
+	&emsp;
 	<a href="https://www.python.org/">
 		<img height="40" width="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 	</a>
+	&emsp;
 	<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
 		<img height="40" width="40" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 	</a>
+	&emsp;
 	<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
 		<img height="40" width="40" alt="Bash" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"/>
 	</a>
@@ -44,13 +53,15 @@
 
 <br>
 
-<p>
+<p align="center">
 	<a href="https://code.visualstudio.com/">
 		<img height="40" width="40" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 	</a>
+	&emsp;
 	<a href="https://git-scm.com/">
 		<img height="40" width="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 	</a>
+	&emsp;
 	<a href="https://github.com/">
 		<img height="40" width="40" alt="GitHub" src="https://github.githubassets.com/favicons/favicon-dark.svg"/>
 	</a>
@@ -58,13 +69,15 @@
 
 ## Contact me
 
-<p>
+<p align="center">
 	<a href="https://discordapp.com/users/312690752884834314/">
 		<img height="48" width="48" alt="Discord" src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>
 	</a>
+	&emsp;
 	<a href="https://www.linkedin.com/in/albert-vaillon-984227222/">
 		<img height="48" width="48" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 	</a>
+	&emsp;
 	<a href="mailto:albert.vaillon21@gmail.com">
 		<img height="48" width="48" alt="Mail" src="https://img.icons8.com/color/48/000000/apple-mail.png"/>
 	</a>
