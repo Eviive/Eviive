@@ -5,11 +5,11 @@
 </h1>
 
 <a href="https://github.com/Eviive?tab=repositories">
-	<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eviive&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats&hide=prs"/>
+	<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eviive&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats&hide=prs"/>
 </a>
 <br>
 <a href="https://github.com/Eviive?tab=repositories">
-	<img alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eviive&langs_count=6&hide_border=true&theme=github_dark&custom_title=My%20Most%20Used%20Languages&layout=compact"/>
+	<img alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eviive&langs_count=6&hide_border=true&theme=github_dark&custom_title=My%20Most%20Used%20Languages&layout=compact"/>
 </a>
 
 ## My favorite repositories
@@ -17,11 +17,11 @@
 <br>
 
 <p align="center">
-	<a href="https://github.com/eviive/BUT-Website">
-		<img alt="BUT-Website repository" src="https://github-readme-stats.vercel.app/api/pin/?username=eviive&repo=BUT-Website&show_owner=false&theme=github_dark&border_color=30363d"/>
+	<a href="https://github.com/Eviive/BUT-Website">
+		<img alt="BUT-Website repository" src="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=BUT-Website&show_owner=false&theme=github_dark&border_color=30363d"/>
 	</a>
-	<a href="https://github.com/eviive/TCL-API">
-		<img alt="TCL-API repository" src="https://github-readme-stats.vercel.app/api/pin/?username=eviive&repo=TCL-API&show_owner=false&theme=github_dark&border_color=30363d"/>
+	<a href="https://github.com/Eviive/TCL-API">
+		<img alt="TCL-API repository" src="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=TCL-API&show_owner=false&theme=github_dark&border_color=30363d"/>
 	</a>
 </p>
 
