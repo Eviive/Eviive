@@ -4,9 +4,13 @@
 	👋
 </h1>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eviive&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats&hide=prs)
-
-![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eviive&langs_count=6&hide_border=true&theme=github_dark&custom_title=My%20Most%20Used%20Languages&layout=compact)
+<a href="https://github.com/Eviive?tab=repositories">
+	<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eviive&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats&hide=prs"/>
+</a>
+<br>
+<a href="https://github.com/Eviive?tab=repositories">
+	<img alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eviive&langs_count=6&hide_border=true&theme=github_dark&custom_title=My%20Most%20Used%20Languages&layout=compact"/>
+</a>
 
 ## My favorite repositories
 
