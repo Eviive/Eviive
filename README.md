@@ -20,8 +20,8 @@
 	<a href="https://github.com/Eviive/BUT-Website">
 		<img alt="BUT-Website repository" src="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=BUT-Website&show_owner=false&theme=github_dark&border_color=30363d"/>
 	</a>
-	<a href="https://github.com/Eviive/TCL-API">
-		<img alt="TCL-API repository" src="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=TCL-API&show_owner=false&theme=github_dark&border_color=30363d"/>
+	<a href="https://github.com/Eviive/Pathfinding-Algorithm">
+		<img alt="Pathfinding-Algorithm" src="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=Pathfinding-Algorithm&show_owner=false&theme=github_dark&border_color=30363d"/>
 	</a>
 </p>
 
