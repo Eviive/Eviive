@@ -7,14 +7,14 @@
 <a href="https://github.com/Eviive?tab=repositories">
 	<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eviive&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats&hide=prs"/>
 </a>
-<br>
+<br/>
 <a href="https://github.com/Eviive?tab=repositories">
 	<img alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eviive&langs_count=6&hide_border=true&theme=github_dark&custom_title=My%20Most%20Used%20Languages&layout=compact"/>
 </a>
 
 ## My favorite repositories
 
-<br>
+<br/>
 
 <p align="center">
 	<a href="https://github.com/Eviive/BUT-Website">
@@ -27,19 +27,23 @@
 
 ## Languages and tools I use
 
-<br>
+<br/>
 
 <p align="center">
+	<a href="https://reactjs.org">
+		<img height="40" width="40" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
+	</a>
+	&emsp;
+	<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
+		<img height="40" width="40" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+	</a>
+	&emsp;
 	<a href="https://developer.mozilla.org/fr/docs/Web/HTML">
 		<img height="40" width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 	</a>
 	&emsp;
 	<a href="https://developer.mozilla.org/fr/docs/Web/CSS">
 		<img height="40" width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-	</a>
-	&emsp;
-	<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
-		<img height="40" width="40" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 	</a>
 	&emsp;
 	<a href="https://www.python.org/">
@@ -55,7 +59,7 @@
 	</a>
 </p>
 
-<br>
+<br/>
 
 <p align="center">
 	<a href="https://code.visualstudio.com/">
@@ -74,30 +78,19 @@
 ## Contact me
 
 <p align="center">
-	<a href="https://discordapp.com/users/312690752884834314/">
-		<img height="48" width="48" alt="Discord" src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/>
+	<a href="https://www.linkedin.com/in/albert-vaillon-984227222/">
+		Linkedin
 	</a>
 	&emsp;
-	<a href="https://www.linkedin.com/in/albert-vaillon-984227222/">
-		<img height="48" width="48" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-	</a>
+	|
 	&emsp;
 	<a href="mailto:albert.vaillon21@gmail.com">
-		<img height="48" width="48" alt="Mail" src="https://img.icons8.com/color/48/000000/apple-mail.png"/>
+		Mail
+	</a>
+	&emsp;
+	|
+	&emsp;
+	<a href="https://discordapp.com/users/312690752884834314/">
+		Discord
 	</a>
 </p>
-
-<!--
-**Eviive/Eviive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
