@@ -1,13 +1,13 @@
 <h1>
 	Hi there, I'm 
-	<a href="https://albertv.dev" target="_blank">Albert</a>
+	<a href="https://albertv.dev">Albert</a>
 	👋
 </h1>
 
 <br />
 
 <p>
-    <a href="https://github.com/Eviive?tab=repositories" target="_blank">
+    <a href="https://github.com/Eviive?tab=repositories">
         <picture>
             <source
                 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eviive&langs_count=6&hide_border=true&theme=github_dark&custom_title=My%20Most%20Used%20Languages&layout=compact"
@@ -24,7 +24,7 @@
             <img height="175" alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eviive&langs_count=6&hide_border=true&custom_title=My%20Most%20Used%20Languages&layout=compact" />
         </picture>
     </a>
-    <a href="https://github.com/Eviive?tab=repositories" target="_blank">
+    <a href="https://github.com/Eviive?tab=repositories">
         <picture>
             <source
                 srcset="https://github-readme-stats.vercel.app/api?username=Eviive&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats&hide=prs&rank_icon=github"
@@ -48,7 +48,7 @@
 <br/>
 
 <p>
-	<a href="https://github.com/Eviive/Personal-API" target="_blank">
+	<a href="https://github.com/Eviive/Personal-API">
         <picture>
             <source
                 srcset="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=Personal-API&show_owner=false&theme=github_dark&border_color=30363d"
@@ -63,7 +63,7 @@
             <img alt="Personal-API repository" src="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=Personal-API&show_owner=false&theme=github_dark&border_color=30363d" />
         </picture>
 	</a>
-	<a href="https://github.com/Eviive/Portfolio" target="_blank">
+	<a href="https://github.com/Eviive/Portfolio">
         <picture>
             <source
                 srcset="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=Portfolio&show_owner=false&theme=github_dark&border_color=30363d"
@@ -83,25 +83,25 @@
 ## Contact me
 
 <p align="center">
-    <a href="https://albertv.dev" target="_blank">
+    <a href="https://albertv.dev">
 		Website
 	</a>
 	&emsp;
 	|
 	&emsp;
-	<a href="https://www.linkedin.com/in/albert-vaillon" target="_blank">
+	<a href="https://www.linkedin.com/in/albert-vaillon">
 		LinkedIn
 	</a>
 	&emsp;
 	|
 	&emsp;
-	<a href="mailto:albert.vaillon21@gmail.com" target="_blank">
+	<a href="mailto:albert.vaillon21@gmail.com">
 		Mail
 	</a>
 	&emsp;
 	|
 	&emsp;
-	<a href="https://discordapp.com/users/312690752884834314" target="_blank">
+	<a href="https://discordapp.com/users/312690752884834314">
 		Discord
 	</a>
 </p>
