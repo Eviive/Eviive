@@ -1,85 +1,104 @@
 <h1>
 	Hi there, I'm 
-	<a href="https://github.com/Eviive">Albert</a>
+	<a href="https://albertv.dev">Albert</a>
 	👋
 </h1>
 
-<a href="https://github.com/Eviive?tab=repositories">
-	<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eviive&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats&hide=prs"/>
-</a>
-<br/>
-<a href="https://github.com/Eviive?tab=repositories">
-	<img alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eviive&langs_count=6&hide_border=true&theme=github_dark&custom_title=My%20Most%20Used%20Languages&layout=compact"/>
-</a>
+<br />
+
+<p align="center">
+    <a href="https://github.com/Eviive?tab=repositories">
+        <picture>
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eviive&langs_count=6&hide_border=true&theme=github_dark&custom_title=My%20Most%20Used%20Languages&layout=compact"
+                media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+                alt="Languages Stats"
+                height="200"
+                align="center"
+            />
+            <source
+                srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+                media="(prefers-color-scheme: light)"
+                alt="Languages Stats"
+                height="200"
+                align="center"
+            />
+            <img height="200" align="center" alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eviive&langs_count=6&hide_border=true&custom_title=My%20Most%20Used%20Languages&layout=compact" />
+        </picture>
+    </a>
+    <a href="https://github.com/Eviive?tab=repositories">
+        <picture>
+            <source
+                srcset="https://github-readme-stats.vercel.app/api?username=Eviive&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats&hide=prs&rank_icon=github"
+                media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+                alt="GitHub Stats"
+                height="200"
+                align="center"
+            />
+            <source
+                srcset="https://github-readme-stats.vercel.app/api?username=Eviive&count_private=true&include_all_commits=true&hide_border=true&show_icons=true&custom_title=GitHub%20Stats&hide=prs&rank_icon=github"
+                media="(prefers-color-scheme: light)"
+                alt="GitHub Stats"
+                height="200"
+                align="center"
+            />
+            <img height="200" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Eviive&count_private=true&include_all_commits=true&hide_border=true&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats&hide=prs&rank_icon=github" />
+        </picture>
+    </a>
+</p>
 
 ## My favorite repositories
 
 <br/>
 
 <p align="center">
-	<a href="https://github.com/Eviive/BUT-Website">
-		<img alt="BUT-Website repository" src="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=BUT-Website&show_owner=false&theme=github_dark&border_color=30363d"/>
+	<a href="https://github.com/Eviive/Personal-API">
+        <picture>
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=Personal-API&show_owner=false&theme=github_dark&border_color=30363d"
+                media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+                alt="Personal-API repository"
+                align="center"
+            />
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=Personal-API&show_owner=false&border_color=30363d"
+                media="(prefers-color-scheme: light)"
+                alt="Personal-API repository"
+                align="center"
+            />
+            <img align="center" alt="Personal-API repository" src="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=Personal-API&show_owner=false&theme=github_dark&border_color=30363d" />
+        </picture>
 	</a>
-	<a href="https://github.com/Eviive/Pathfinding-Algorithm">
-		<img alt="Pathfinding-Algorithm" src="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=Pathfinding-Algorithm&show_owner=false&theme=github_dark&border_color=30363d"/>
-	</a>
-</p>
-
-## Languages and tools I use
-
-<br/>
-
-<p align="center">
-	<a href="https://reactjs.org">
-		<img height="40" width="40" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
-	</a>
-	&emsp;
-	<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript">
-		<img height="40" width="40" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-	</a>
-	&emsp;
-	<a href="https://developer.mozilla.org/fr/docs/Web/HTML">
-		<img height="40" width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-	</a>
-	&emsp;
-	<a href="https://developer.mozilla.org/fr/docs/Web/CSS">
-		<img height="40" width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-	</a>
-	&emsp;
-	<a href="https://www.python.org/">
-		<img height="40" width="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-	</a>
-	&emsp;
-	<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-		<img height="40" width="40" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-	</a>
-	&emsp;
-	<a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
-		<img height="40" width="40" alt="Bash" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg"/>
-	</a>
-</p>
-
-<br/>
-
-<p align="center">
-	<a href="https://code.visualstudio.com/">
-		<img height="40" width="40" alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-	</a>
-	&emsp;
-	<a href="https://git-scm.com/">
-		<img height="40" width="40" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-	</a>
-	&emsp;
-	<a href="https://github.com/">
-		<img height="40" width="40" alt="GitHub" src="https://github.githubassets.com/favicons/favicon-dark.svg"/>
+	<a href="https://github.com/Eviive/Portfolio">
+        <picture>
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=Portfolio&show_owner=false&theme=github_dark&border_color=30363d"
+                media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+                alt="Portfolio repository"
+                align="center"
+            />
+            <source
+                srcset="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=Portfolio&show_owner=false&border_color=30363d"
+                media="(prefers-color-scheme: light)"
+                alt="Portfolio repository"
+                align="center"
+            />
+            <img align="center" alt="Portfolio repository" src="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=Portfolio&show_owner=false&theme=github_dark&border_color=30363d" />
+        </picture>
 	</a>
 </p>
 
 ## Contact me
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/albert-vaillon-984227222/">
-		Linkedin
+    <a href="https://albertv.dev">
+		Website
+	</a>
+	&emsp;
+	|
+	&emsp;
+	<a href="https://www.linkedin.com/in/albert-vaillon">
+		LinkedIn
 	</a>
 	&emsp;
 	|
@@ -90,7 +109,7 @@
 	&emsp;
 	|
 	&emsp;
-	<a href="https://discordapp.com/users/312690752884834314/">
+	<a href="https://discordapp.com/users/312690752884834314">
 		Discord
 	</a>
 </p>
