@@ -16,7 +16,7 @@
                 height="175"
             />
             <source
-                srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Eviive&langs_count=6&hide_border=true&custom_title=My%20Most%20Used%20Languages&layout=compact"
                 media="(prefers-color-scheme: light)"
                 alt="Languages Stats"
                 height="175"
