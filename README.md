@@ -47,45 +47,6 @@
     </a>
 </p>
 
-## My favorite repositories
-
-<br/>
-
-<p>
-    <a href="https://github.com/Eviive/projects-api">
-        <picture>
-            <source
-                srcset="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=projects-api&show_owner=false&theme=github_dark&border_color=30363d"
-                media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-            />
-            <source
-                srcset="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=projects-api&show_owner=false&border_color=30363d"
-                media="(prefers-color-scheme: light)"
-            />
-            <img
-                src="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=projects-api&show_owner=false&theme=github_dark&border_color=30363d"
-                alt="projects-api repository"
-            />
-        </picture>
-    </a>
-    <a href="https://github.com/Eviive/Portfolio">
-        <picture>
-            <source
-                srcset="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=Portfolio&show_owner=false&theme=github_dark&border_color=30363d"
-                media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-            />
-            <source
-                srcset="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=Portfolio&show_owner=false&border_color=30363d"
-                media="(prefers-color-scheme: light)"
-            />
-            <img
-                src="https://github-readme-stats.vercel.app/api/pin/?username=Eviive&repo=Portfolio&show_owner=false&theme=github_dark&border_color=30363d"
-                alt="Portfolio repository"
-            />
-        </picture>
-    </a>
-</p>
-
 ## Contact me
 
 <br />
